@@ -1,22 +1,18 @@
 #!/usr/bin/env node
-/*Server.js
-Mintu Vipin Joy
-301135483
-9/10/2020 */
 
 /**
  * Module dependencies.
  */
 
-var app = require('./app');
-var debug = require('debug')('assignment1-portfolio:server');
+var app = require('./server/config/app');
+var debug = require('debug')('week-4:server');
 var http = require('http');
 
 /**
  * Get port from environment and store in Express.
  */
 
-var port = normalizePort(process.env.PORT || '3000');
+var port = normalizePort(process.env.PORT || '3500');
 app.set('port', port);
 
 /**
