@@ -43,12 +43,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Mintu-Vipin/COMP229-F2020-Week3.git"
+    "url": "https://github.com/Mintu-Vipin/Authentication_assignment2.git"
   },
   "author": "Mintu",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Mintu-Vipin/COMP229-F2020-Week3/issues"
+    "url": "https://github.com/Mintu-Vipin/Authentication_assignment2/issues"
   },
-  "homepage": "https://github.com/Mintu-Vipin/COMP229-F2020-Week3#readme"
+  "homepage": "https://github.com/Mintu-Vipin/Authentication_assignment2#readme"
 }
